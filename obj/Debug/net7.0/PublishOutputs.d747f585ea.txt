@@ -1,0 +1,7 @@
+C:\Users\oscar\OneDrive\Skrivbord\FirstWorking\bin\Debug\net7.0\publish\FirstWorking.exe
+C:\Users\oscar\OneDrive\Skrivbord\FirstWorking\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\Users\oscar\OneDrive\Skrivbord\FirstWorking\bin\Debug\net7.0\publish\appsettings.json
+C:\Users\oscar\OneDrive\Skrivbord\FirstWorking\bin\Debug\net7.0\publish\FirstWorking.dll
+C:\Users\oscar\OneDrive\Skrivbord\FirstWorking\bin\Debug\net7.0\publish\FirstWorking.deps.json
+C:\Users\oscar\OneDrive\Skrivbord\FirstWorking\bin\Debug\net7.0\publish\FirstWorking.runtimeconfig.json
+C:\Users\oscar\OneDrive\Skrivbord\FirstWorking\bin\Debug\net7.0\publish\FirstWorking.pdb
